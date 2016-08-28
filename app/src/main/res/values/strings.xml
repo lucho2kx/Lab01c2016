@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab01c2016</string>
+    <string name="titulo_app">Calculadora Plazo Fijo</string>
+    <string name="mail_app">Correo Electrónico</string>
+    <string name="cuit_app">CUIT</string>
+    <string name="importe_app">Importe</string>
+    <string name="cant_dias_app">Cantidad de Días</string>
+    <string name="rendimiento_app">Rendimiento</string>
+    <string name="ren_aut_venc_app">Renovar Automáticamente al Vencimiento</string>
+    <string name="plazo_fijo_app">HACER PLAZO FIJO</string>
+
+    <string name="msg_err_mail">Introduzca su dirección de correo electrónico válida</string>
+    <string name="msg_err_cuit">Introduzca su CUIT válido: formato de 11 dígitos.</string>
+    <string name="msg_err_importe">Introduzca un Importe válido</string>
+
+    <string name="dias_selec_inicial">0 días</string>
+    <string name="signo_monetario">$</string>
+    <string name="plazo_fijo_realizado">Plazo fijo realizado.</string>
+    <string name="recibira">Recibirá</string>
+    <string name="al_venc">al vencimiento!</string>
+
+</resources>

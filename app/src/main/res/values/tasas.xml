@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="De_0_5000_menor_30_dias">25</string>
+    <string name="De_0_5000_mayor_igual_30_dias">27.5</string>
+    <string name="De_5000_99.999_menor_30_dias">30</string>
+    <string name="De_5000_99.999_mayor_igual_30_dias">32.3</string>
+    <string name="Mas_99.999_menor_30_dias">35</string>
+    <string name="Mas_99.999_mayor_igual_30_dias">38.5</string>
+
+</resources>
